@@ -10,6 +10,7 @@ using namespace std;
 class BinaryMaxHeap
 {
 public:
+
 	vector<Number> heap;
 	
 	int parentIndex(int child);
